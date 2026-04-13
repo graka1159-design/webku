@@ -1,7 +1,6 @@
 body
 {
 background-color:yellow;
-
 }
 
 body{
@@ -32,7 +31,7 @@ body{
   margin:0 auto;
   padding:0 auto;
 }
-.menu ul{
+.menu ul {
     list-style:none;
 }
 
@@ -42,17 +41,20 @@ body{
     display:block;
     text-decoratioon:none;
 }
+
 .menu ul li a: hover {
     background-color:#4b88bb;
     display:block;
 }
 .content{
     width:90%
-    margin:auto;height:420px;
+    margin:auto;
+    height:420px;
     padding:0.1px;
     background:#fff;
     color:#333;
 }
+
 .border{
     border:2px solid #4887b9;
     margin-top:1pc;
@@ -60,6 +62,7 @@ body{
     padding-left:2pc;
     padding-right:2pc;
 }
+
 .kiri{
     width:70%
     float:left;
@@ -67,6 +70,7 @@ body{
     background:#fff;
     height:420px;
 }
+
 .kanan{
     width:30%
     float:left;
@@ -79,9 +83,9 @@ body{
     text-decoration:none;
 }
 
-.footer[
+.footer{
   width:90%
-  margin:40px;
+  margin:auto;
   height:40px;
   line-height:40px;
   background:#417aa8;
